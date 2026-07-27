@@ -116,11 +116,5 @@ The layout is designed using a **mobile-first approach** and adapts across diffe
 - Contact information
 - Social media links
 
----
-
-
-
-
-Computer Science Student
 
 Built as part of a front-end development internship project.
